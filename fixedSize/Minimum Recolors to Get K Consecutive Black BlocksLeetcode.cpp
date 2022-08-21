@@ -1,3 +1,4 @@
+//jitte W aayenge window mai utte W haatane pdenge 
 int minimumRecolors(string blocks, int k) {
     int i=0,j=0;
     int white=0;
